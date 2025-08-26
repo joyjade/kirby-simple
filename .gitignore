@@ -4,6 +4,7 @@
 Icon
 .DS_Store
 
+
 # Temporary files
 # ---------------
 
@@ -21,6 +22,7 @@ Icon
 *.sublime-workspace
 /.vscode
 /.idea
+/.editorconfig
 
 # -------------SECURITY-------------
 # NEVER publish these files via Git!
@@ -43,6 +45,7 @@ Icon
 
 /site/sessions/*
 !/site/sessions/index.html
+/.env
 
 # License
 # ---------------
