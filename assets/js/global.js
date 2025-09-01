@@ -1,7 +1,11 @@
 document.addEventListener("DOMContentLoaded", function() { 
+  let isMobile = window.matchMedia("(max-width:768px)").matches;
+  console.log('mobile el', isMobile);
+
   // helloWorld();
   mobileNav();
 });
+
 
 function helloWorld(){
   document.onclick = function(e) {
