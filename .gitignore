@@ -51,8 +51,9 @@ Icon
 # ---------------
 
 /site/config/.license
-/site/config/config.php
 
+# Local Config Setup
+/site/config/config.kirby.test.php
 
 # Composer files
 # ---------------
