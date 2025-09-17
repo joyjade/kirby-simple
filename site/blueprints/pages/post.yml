@@ -1,5 +1,9 @@
 title: Post
-icon: draft
+icon: 🌺
+
+image:
+  query: false # remove this if you want the photo to be the thumb
+  back: black
 
 columns: 
   main:

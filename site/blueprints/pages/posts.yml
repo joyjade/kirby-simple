@@ -2,6 +2,11 @@ title: Posts
 type: pages
 icon: 📰
 
+image:
+  query: false # remove this if you want the photo to be the thumb
+  back: black
+
+
 options:
   url: false
   status: false
